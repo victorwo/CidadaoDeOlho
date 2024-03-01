@@ -9,3 +9,5 @@ A primeira página que deve ser acessada é a conexao.php que mostra a conexão 
 Depois deve ser acessado a página addDeputados.php que faz uma requisição à API da Assembleia e pega os resultados dessa requisição para popular o banco de dados. Esse arquivo deve ser rodado apenas uma vez.
 
 Em seguida podemos acessar a página index.php
+
+Para exibir os resultados na página index.php é necessário selecionar um mês do menu flutuante e o sistema irá exibir os deputados que mais gastaram nesse determinado mês
